@@ -82,6 +82,9 @@
         <label for="categoria">Categoria:</label>
         <select id="categoria" name="categoria">
             <option value="CRIANÇA">Criança</option>
+            <option value="ADULTO">Adulto</option>
+            <option value="ADOLESCENTE">Adolescente</option>
+            <option value="GESTANTE">Gestante</option>
         </select>
 
         <button type="submit">Cadastrar</button>
